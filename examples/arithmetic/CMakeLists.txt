@@ -1,0 +1,2 @@
+add_executable(arithmetic_example main.cpp)
+target_link_libraries(arithmetic_example program_synthesis)
